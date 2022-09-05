@@ -1,0 +1,4 @@
+#/bin/bash
+
+mkdir /usr/local/include/bits
+cat stdc++ > /usr/local/include/bits/stdc++.h
