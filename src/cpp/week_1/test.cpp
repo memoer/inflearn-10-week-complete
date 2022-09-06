@@ -5,8 +5,7 @@ using namespace std;
 // 합을 구해야 하는 횟수 -> M
 int n, m, arr[100004], psum[100004];
 int a, b;
-int main()
-{
+int main(){
   ios_base::sync_with_stdio(false);
   cin.tie(NULL);
   cout.tie(NULL);
