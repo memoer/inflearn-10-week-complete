@@ -1,4 +1,4 @@
-package week_1.P2309;
+package week_1.a_2309;
 
 import java.util.ArrayDeque;
 import java.util.Arrays;
