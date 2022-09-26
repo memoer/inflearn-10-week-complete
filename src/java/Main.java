@@ -1,6 +1,12 @@
 public class Main {
 
   public static void main(String[] args) {
-    System.out.println("test");
+    Solution solution = new Solution();
+  }
+
+  private static class Solution {
+    public void solution() {
+
+    }
   }
 }

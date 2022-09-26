@@ -27,9 +27,11 @@
 - [e_1992(쿼드트리)](https://www.acmicpc.net/problem/1992)
 - [f_2828(사과 담기 게임)](https://www.acmicpc.net/problem/2828)
 
-### 3주차 - 백트래킹
+### 3주차 - 완전탐색, 백트래킹
 
+- [1189(컴백홈)](https://www.acmicpc.net/problem/1189)
 - [14502(연구소)](https://www.acmicpc.net/problem/14502)
+- [15686(치킨 배달)](https://www.acmicpc.net/problem/15686)
 
 # 틀린 문제
 
@@ -45,3 +47,8 @@
     - 한 번 계산했던 건 재활용한다.
 - [o_4375(1)](https://www.acmicpc.net/problem/4375)
     - 한 번 계산했던 건 재활용한다.
+
+### 3주차 - 완전탐색, 백트래킹
+
+- [17136(색종이 붙이기)](https://www.acmicpc.net/problem/17136)
+- [2589(보물섬)](https://www.acmicpc.net/problem/2589)
