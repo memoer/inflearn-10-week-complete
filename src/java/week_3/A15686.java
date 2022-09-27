@@ -2,7 +2,7 @@ package week_3;
 
 import java.util.*;
 
-public class P15686 {
+public class A15686 {
   public static void main(String[] args) {
     System.out.println(new Solution().solution());
   }

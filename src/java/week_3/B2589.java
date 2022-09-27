@@ -5,7 +5,7 @@ import java.util.Queue;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class P2589 {
+public class B2589 {
   public static void main(String[] args) {
     System.out.println(new Solution().main());
   }
