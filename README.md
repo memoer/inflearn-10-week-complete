@@ -38,6 +38,15 @@
 - [15686(치킨 배달)](https://www.acmicpc.net/problem/15686)
 - [16234(인구 이동)](https://www.acmicpc.net/problem/16234)
 
+### 4주차 - 그리디, 라인스위핑, 투포인터
+
+- [14729(칠무해)](https://www.acmicpc.net/problem/14729)
+- [2109(순회강연)](https://www.acmicpc.net/problem/2109)
+- [9935(문자열 폭발)](https://www.acmicpc.net/problem/9935)
+- [1781(컵라면)](https://www.acmicpc.net/problem/1781)
+- [14469(소가 길을 건너간 이유 3)](https://www.acmicpc.net/problem/14469)
+- [1644(소수의 연속합)](https://www.acmicpc.net/problem/1644)
+
 # 틀린 문제
 
 ### 1주차 - 재귀함수, 누적합, 구현
