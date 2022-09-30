@@ -71,3 +71,5 @@
 
 - [1931(회의실 배정)](https://www.acmicpc.net/problem/1931)
 - [1202(보석도둑)](https://www.acmicpc.net/problem/1202)
+- [13144(List of Unique Numbers)](https://www.acmicpc.net/problem/13144)
+- [1700(멀티탭 스케줄링)](https://www.acmicpc.net/problem/1700)
